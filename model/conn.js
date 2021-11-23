@@ -11,4 +11,4 @@ mongoose.connect(url,{useNewUrlParser:true,useUnifiedTopology:true},function(err
 })
 
 var can= mongoose.connection
-module.exports=con
+module.exports=can
